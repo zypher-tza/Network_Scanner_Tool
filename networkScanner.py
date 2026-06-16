@@ -2,7 +2,7 @@ import socket
 import os
 import time
 import threading
-import sy
+import sys
 
 
 class Color:
